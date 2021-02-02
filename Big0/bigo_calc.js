@@ -1,3 +1,4 @@
+// First Program 
 // Calculating BIg O
 
 function funChallenge(input){
