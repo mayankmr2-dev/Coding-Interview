@@ -1,11 +1,11 @@
-// First Program 
+// First Program  
 // Calculating BIg O
 
-function funChallenge(input){
+function funChallenge(input) {
     a = 10;      // O(1) 
-    a = 50+3;    // O(1)
+    a = 50 + 3;    // O(1)
 
-    for(let i = 0;i<input.length;i++){ // O(n)
+    for (let i = 0; i < input.length; i++) { // O(n)
         otherfunc()  // O(n)
         let stranger = true;  //  O(n)
         a++;  // O(n)
