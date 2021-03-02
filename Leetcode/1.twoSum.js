@@ -16,9 +16,9 @@ function twoSum(numsArr, target) {
     }
 }
 
-console.log(twoSum(a3, t2));
 console.log(twoSum(a1, target));
 console.log(twoSum(a2, t1));
+console.log(twoSum(a3, t2));
 
 /*
 [ 0, 1 ]
